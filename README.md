@@ -1,4 +1,4 @@
-# NEW_REPO
+# Favorite Beverage
 
 Theo's favorite beverage is Fresc
 Weixin's favorite beverage is coke
